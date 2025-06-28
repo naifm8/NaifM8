@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Python developer, Saudi Arabia<h2>-  I’m currently learning Python, Django framework<br><br>-  Also working on Clinic Management System project<br><br>-  Code hard nap harder 😁
+<h2>Python developer, Saudi Arabia<h2>-  I’m currently learning Python, Django framework<br><br>-  Working on Clinic Management System project<br><br>-  Code hard nap harder 😁
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naifm8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naif-alghamdi-077252309) 
