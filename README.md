@@ -9,4 +9,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naifm8&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=naifm8&theme=codeSTACKr&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=naifm8&theme=codeSTACKr&hide_border=true)
