@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Python developer, Saudi Arabia<h2>-  Python Trainee at Tuwaiq Academy <br><br>-  Last project: Clinic Management System 
+<h2>Python developer, Saudi Arabia<h2>-  Python Trainee at Tuwaiq Academy <br><br> Last project:<br>- Responsive Django web app for plant lovers <br>- Clinic Management System 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naif-alghamdi-077252309)
