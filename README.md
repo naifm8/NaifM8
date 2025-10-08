@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h2>Software Engineer, Saudi Arabia<h2>  Django Trainee at Tuwaiq Academy <br><br> Last project:<br>- Responsive Django web app for plant lovers <br>- Clinic Management System <br>- ‏Majd Academy (Django + Postgres)
+<h3>Technologies: Java/Spring Boot, Python/Django, SQL, HTML, CSS, Git</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naif-alghamdi-077252309)
